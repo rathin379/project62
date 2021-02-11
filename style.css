@@ -1,0 +1,51 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+    align-content: center;
+}
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: deepskyblue;
+}
+.container{
+    text-align: center;
+    background-color: aquamarine;
+}
+#gamecarousel{
+    background-color: orangered;
+    height: 900px;
+}
+#gamecarousel img{
+    height: 500px;
+    margin-top: 7px;
+}
+.carousel-inner p{
+    color: deepskyblue;
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 19px;
+}
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+#gallery{
+    width: 1000px;
+}
